@@ -10,8 +10,8 @@ This internship allowed me to gain practical experience in data analysis, machin
 ## Tools/Skills Used:
 * Programming Language - Python
 * Data Analysis and Visualization: Pandas, Numpy, Matplotlib,Seaborn.
-* Machine Learning
-* Natural Language Processing
+* Machine Learning - sklearn
+* Natural Language Processing - nltk
   
 ## Task List 
 Here's an overview of the tasks and projects I worked on during my internship:
